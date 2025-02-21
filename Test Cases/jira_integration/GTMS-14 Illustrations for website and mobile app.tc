@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Summary: Illustrations for website and mobile app
+Description: </description>
+   <name>GTMS-14 Illustrations for website and mobile app</name>
+   <tag>jira-integration</tag>
+   <integratedEntity>
+      <productName>JIRA</productName>
+      <properties>
+         <entry>
+            <key>integratedValue</key>
+            <value>{&quot;jiraIssue&quot;:{&quot;fields&quot;:{&quot;customFields&quot;:{&quot;customfield_10032&quot;:{&quot;self&quot;:&quot;https://fr-coe-qb-team.atlassian.net/rest/api/2/customFieldOption/10025&quot;,&quot;value&quot;:&quot;Content creation&quot;,&quot;id&quot;:&quot;10025&quot;},&quot;customfield_10015&quot;:&quot;2025-01-30&quot;,&quot;customfield_10002&quot;:[],&quot;customfield_10018&quot;:{&quot;hasEpicLinkFieldDependency&quot;:false,&quot;showField&quot;:false,&quot;nonEditableReason&quot;:{&quot;reason&quot;:&quot;PLUGIN_LICENSE_ERROR&quot;,&quot;message&quot;:&quot;The Parent Link is only available to Jira Premium users.&quot;}},&quot;customfield_10019&quot;:&quot;0|i0001j:&quot;},&quot;status&quot;:{&quot;id&quot;:10004,&quot;description&quot;:&quot;&quot;,&quot;iconUrl&quot;:&quot;https://fr-coe-qb-team.atlassian.net/&quot;,&quot;statusCategory&quot;:{&quot;id&quot;:4,&quot;key&quot;:&quot;indeterminate&quot;,&quot;colorName&quot;:&quot;yellow&quot;,&quot;self&quot;:&quot;https://fr-coe-qb-team.atlassian.net/rest/api/2/statuscategory/4&quot;,&quot;name&quot;:&quot;In Progress&quot;},&quot;self&quot;:&quot;https://fr-coe-qb-team.atlassian.net/rest/api/2/status/10004&quot;,&quot;name&quot;:&quot;In Progress&quot;},&quot;project&quot;:{&quot;self&quot;:&quot;https://fr-coe-qb-team.atlassian.net/rest/api/2/project/10001&quot;,&quot;key&quot;:&quot;GTMS&quot;,&quot;id&quot;:10001,&quot;name&quot;:&quot;Go to market sample&quot;},&quot;components&quot;:[],&quot;summary&quot;:&quot;Illustrations for website and mobile app&quot;,&quot;reporter&quot;:{&quot;emailAddress&quot;:&quot;aakash@qburst.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;aakash&quot;,&quot;accountId&quot;:&quot;712020:0e2a1bbc-3259-4f88-b08c-dc806cd2dbe7&quot;,&quot;self&quot;:&quot;https://fr-coe-qb-team.atlassian.net/rest/api/2/user?accountId\u003d712020%3A0e2a1bbc-3259-4f88-b08c-dc806cd2dbe7&quot;},&quot;assignee&quot;:{&quot;emailAddress&quot;:&quot;aakash@qburst.com&quot;,&quot;active&quot;:true,&quot;displayName&quot;:&quot;aakash&quot;,&quot;accountId&quot;:&quot;712020:0e2a1bbc-3259-4f88-b08c-dc806cd2dbe7&quot;,&quot;self&quot;:&quot;https://fr-coe-qb-team.atlassian.net/rest/api/2/user?accountId\u003d712020%3A0e2a1bbc-3259-4f88-b08c-dc806cd2dbe7&quot;},&quot;priority&quot;:{&quot;id&quot;:3,&quot;self&quot;:&quot;https://fr-coe-qb-team.atlassian.net/rest/api/2/priority/3&quot;,&quot;name&quot;:&quot;Medium&quot;},&quot;votes&quot;:{&quot;self&quot;:&quot;https://fr-coe-qb-team.atlassian.net/rest/api/2/issue/GTMS-14/votes&quot;,&quot;votes&quot;:0,&quot;hasVoted&quot;:false},&quot;fixVersions&quot;:[],&quot;subtasks&quot;:[],&quot;labels&quot;:[&quot;design&quot;]},&quot;self&quot;:&quot;https://fr-coe-qb-team.atlassian.net/rest/api/2/issue/10013&quot;,&quot;key&quot;:&quot;GTMS-14&quot;,&quot;id&quot;:10013}}</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>18404f8d-d8aa-43b7-a5a3-619ef22cf19c</testCaseGuid>
+</TestCaseEntity>
