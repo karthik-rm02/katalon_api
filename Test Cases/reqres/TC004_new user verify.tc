@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_new user verify</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94c6cbca-5794-47d3-be7f-3138cf2ea029</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>8fd6de78-394d-45e3-9f69-150f29d60a5a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83a58043-d881-4ba9-ab67-173b478adae9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'eva'</defaultValue>
+      <description></description>
+      <id>8fd6de78-394d-45e3-9f69-150f29d60a5a</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'doctor'</defaultValue>
+      <description></description>
+      <id>83a58043-d881-4ba9-ab67-173b478adae9</id>
+      <masked>false</masked>
+      <name>job</name>
+   </variable>
+</TestCaseEntity>

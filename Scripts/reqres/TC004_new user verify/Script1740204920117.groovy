@@ -17,4 +17,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CucumberKW.runFeatureFile('Include/features/GTMS-19 Draft blog content.feature')
+newUserRes = WS.sendRequest(findTestObject('reqres_api/new user', [('name') : name, ('job') : job]))
+
+id = WS.getElementPropertyValue(newUserRes, 'id')
+name = WS.getElementPropertyValue(newUserRes, 'name')
+job = WS.getElementPropertyValue(newUserRes, 'job')
+
+println(id + "  " + name + " " + job)

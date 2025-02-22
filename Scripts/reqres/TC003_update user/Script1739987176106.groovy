@@ -18,7 +18,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-getRes = WS.sendRequest(findTestObject('get user'))
+getRes = WS.sendRequest(findTestObject('reqres_api/get user'))
 
 WS.verifyResponseStatusCode(getRes, 200)
 
@@ -26,7 +26,7 @@ nameValue = WS.getElementPropertyValue(getRes, 'data.first_name')
 
 GlobalVariable.name = nameValue
 
-putRes = WS.sendRequestAndVerify(findTestObject('update', [('name') : GlobalVariable.name]))
+putRes = WS.sendRequestAndVerify(findTestObject('reqres_api/update', [('name') : GlobalVariable.name]))
 
 WS.verifyElementPropertyValue(putRes, 'name', 'Janet')
 
