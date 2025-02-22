@@ -17,5 +17,4 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-newRes = WS.sendRequestAndVerify(findTestObject('petstore_json/addPet', [('id') : id, ('name') : name]))
-
+WS.sendRequestAndVerify(findTestObject('petstore_json/addPet', [('id') : id, ('name') : name]))

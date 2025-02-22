@@ -102,6 +102,10 @@ RequestObject request = WSResponseManager.getInstance().getCurrentRequest()
 ResponseObject response = WSResponseManager.getInstance().getCurrentResponse()
 
 
+//resBody = response.getResponseBodyContent()
+//jsonResBody = new JsonSlurper().parseText(resBody)
+//println jsonResBody.id
+
 WS.verifyResponseStatusCode(response, 200)
 
 assertThat(response.getStatusCode()).isEqualTo(200)</verificationScript>
