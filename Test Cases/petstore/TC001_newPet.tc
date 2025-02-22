@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_newPet</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4ecb6327-8c9c-43c4-90ae-75a3cc0650db</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>bb3f7a01-170d-4811-bc46-bb76ed48320a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/pet_data</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>bb3f7a01-170d-4811-bc46-bb76ed48320a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>id</value>
+      <variableId>c865662a-ab0a-4bc8-9074-9876878583d8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>bb3f7a01-170d-4811-bc46-bb76ed48320a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>name</value>
+      <variableId>8c68d28b-49bc-48cc-a06a-7f9be3664de4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>c865662a-ab0a-4bc8-9074-9876878583d8</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>8c68d28b-49bc-48cc-a06a-7f9be3664de4</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+</TestCaseEntity>
