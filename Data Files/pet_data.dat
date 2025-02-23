@@ -7,9 +7,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator>COMMA</csvSeperator>
    <dataFileGUID>6e669d7c-1173-4157-a562-d290bc9e2bfa</dataFileGUID>
-   <dataSourceUrl>C:\Users\aakas\Downloads\test_data_pet.csv</dataSourceUrl>
+   <dataSourceUrl>Data Files/test_data_pet.csv</dataSourceUrl>
    <driver>CSV</driver>
-   <isInternalPath>false</isInternalPath>
+   <isInternalPath>true</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName></sheetName>

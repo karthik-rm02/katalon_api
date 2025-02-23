@@ -27,6 +27,15 @@
    <soapServiceFunction></soapServiceFunction>
    <socketTimeout>0</socketTimeout>
    <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <validationSteps>
+      <id>b720fd55-e272-472b-bae8-ddad776a628a</id>
+      <name>test</name>
+      <type>JSON_SCHEMA</type>
+      <dataType>FILE</dataType>
+      <target>RESPONSE</target>
+      <data>Data Files/dummy_validation.json</data>
+      <activate>true</activate>
+   </validationSteps>
    <variables>
       <defaultValue>4</defaultValue>
       <description></description>

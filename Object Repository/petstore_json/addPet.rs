@@ -70,7 +70,7 @@
       <type>JSON_SCHEMA</type>
       <dataType>FILE</dataType>
       <target>RESPONSE</target>
-      <data>C:\Users\aakas\Katalon Studio\Test_API\addPet.json</data>
+      <data>Data Files/addPet.json</data>
       <activate>true</activate>
    </validationSteps>
    <variables>
