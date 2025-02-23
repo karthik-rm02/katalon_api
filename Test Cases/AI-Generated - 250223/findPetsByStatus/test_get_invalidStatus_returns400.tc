@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_get_invalidStatus_returns400</name>
+   <tag>API_Test_Generation, GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac3b3395-e6bf-4dd6-9c46-e46f545be5c3</testCaseGuid>
+</TestCaseEntity>

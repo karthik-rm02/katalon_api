@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_post_missingNameField_returns405</name>
+   <tag>API_Test_Generation, GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3757da9b-2551-4fa9-908d-4ca7670347ee</testCaseGuid>
+</TestCaseEntity>

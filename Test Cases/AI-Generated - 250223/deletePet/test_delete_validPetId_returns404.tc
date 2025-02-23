@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_delete_validPetId_returns404</name>
+   <tag>API_Test_Generation, GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>08df46bc-30d2-4f43-8a62-38eb582500f2</testCaseGuid>
+</TestCaseEntity>

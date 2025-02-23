@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_post_createWithArrayNoUserStatus_returns0</name>
+   <tag>API_Test_Generation, GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a97aff5-a092-4361-b162-8747f1b261ff</testCaseGuid>
+</TestCaseEntity>

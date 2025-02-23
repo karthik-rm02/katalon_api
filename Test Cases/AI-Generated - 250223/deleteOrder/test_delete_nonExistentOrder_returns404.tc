@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_delete_nonExistentOrder_returns404</name>
+   <tag>API_Test_Generation, GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de5d318d-be10-43a6-aeff-ff6478a49563</testCaseGuid>
+</TestCaseEntity>

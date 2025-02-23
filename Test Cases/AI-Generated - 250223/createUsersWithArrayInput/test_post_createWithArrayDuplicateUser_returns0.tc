@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_post_createWithArrayDuplicateUser_returns0</name>
+   <tag>API_Test_Generation, GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2efdb2e0-ae63-458a-921c-474b97afaafc</testCaseGuid>
+</TestCaseEntity>

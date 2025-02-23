@@ -9,4 +9,9 @@
       <initValue>'test'</initValue>
       <name>name</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://reqres.in/'</initValue>
+      <name>host</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_get_existingUserWithPets_returns404</name>
+   <tag>API_Test_Generation, GenAI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fbae91b6-4766-4fb2-9ab0-48fc6d05c00d</testCaseGuid>
+</TestCaseEntity>

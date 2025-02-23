@@ -28,5 +28,5 @@ GlobalVariable.name = nameValue
 
 putRes = WS.sendRequestAndVerify(findTestObject('reqres_api/update', [('name') : GlobalVariable.name]))
 
-WS.verifyElementPropertyValue(putRes, 'name', 'Janet')
+WS.verifyElementPropertyValue(putRes, 'name', 'Byron')
 

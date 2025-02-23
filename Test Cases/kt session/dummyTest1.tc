@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dummyTest1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6ec277d5-487e-49a7-8aa2-35d0259294e0</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>0db24f14-34d6-4198-b161-af9116d6961a</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/dummy</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>0db24f14-34d6-4198-b161-af9116d6961a</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>page</value>
+      <variableId>80023e03-3b43-4ca9-b36e-7d9a43e08369</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>80023e03-3b43-4ca9-b36e-7d9a43e08369</id>
+      <masked>false</masked>
+      <name>page</name>
+   </variable>
+</TestCaseEntity>
