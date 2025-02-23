@@ -36,6 +36,13 @@
       <guid>6713643e-a549-4fa0-adf6-7718d31041f7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'eva'</defaultValue>
+         <description></description>
+         <id>8fd6de78-394d-45e3-9f69-150f29d60a5a</id>
+         <masked>false</masked>
+         <name>name</name>
+      </iterationNameVariable>
       <testCaseId>Test Cases/reqres/TC004_new user verify</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
